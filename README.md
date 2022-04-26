@@ -2,7 +2,7 @@ This is a CRA fork that I use for my projects. You can use it, too.
 
 However, I strongly recommend using the official CRA and contributing to help improve the official CRA.
 
-# CRA WITH SAUCE
+# CRA WITH SAUCE - TEST
 
 Add some SAUCEsomeness to your CRAwesomeness, supporting:
 
